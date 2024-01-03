@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# CV
-
 ## Education
 
 ### Bachelor (2018-2022)
@@ -85,4 +83,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams --> -->
+* Currently signed in to 43 different slack teams -->
