@@ -9,7 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# CV
+
+## Education
+
+### Bachelor (2018-2022)
+
+- University: China University of Geosciences (Beijing)
+- Major: Computer Science and Technology
+- Location: Beijing, China
+- GPA: 3.59 / 4.0
+
+### Master (2022-Now)
+
+- University: University of Macau
+- Major: Computer Science
+- Location: Macau, China
+- GPA: 3.7 / 4.0
+
+## Research
+
+### Research Assistant (2022-Now)
+
+- University: University of Macau
+- Laboratory: State Key Laboratory of Internet of Things for Smart City (IOTSC)
+- Supervisor: Leong Hou U, Ryan
+- Research Area: Graph Learning
+
+
+
+<!-- Education
 ======
 * B.S. in Computer Science and Technology, China University of Geosciences (Beijing), 2018-2022
 * M.S. in Computer Science, University of Macau, 2022 - Now
@@ -56,4 +85,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams --> -->
