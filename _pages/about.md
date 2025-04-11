@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Zijie Zhou. Now I am a master student at University of Macau and my research area is Graph Learning.
+Hi, my name is Zijie Zhou. Now I am a PhD student at Chongqing University and my research areas include Computer Vision and Graph Learning.
