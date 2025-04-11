@@ -18,16 +18,22 @@ redirect_from:
 - Location: Beijing, China
 - GPA: 3.59 / 4.0
 
-### Master (2022-Now)
+### Master (2022-2024)
 
 - University: University of Macau
 - Major: Computer Science
 - Location: Macau, China
 - GPA: 3.7 / 4.0
 
+### PhD (2024-Now)
+
+- University: Chongqing University
+- Major: Computer Science and Technology
+- Location: Chongqing, China
+
 ## Research
 
-### Research Assistant (2022-Now)
+### Research Assistant (2022-2024)
 
 - University: University of Macau
 - Laboratory: State Key Laboratory of Internet of Things for Smart City (IOTSC)
