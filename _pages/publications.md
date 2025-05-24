@@ -18,8 +18,8 @@ author_profile: true
 ## Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification
 
 Zijie Zhou, Zhaoqi Lu, Xuekai Wei, Rongqin Chen, Shenghui Zhang, Pak Lon Ip, and Leong Hou U. 
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025*  
-Volume 39, Number 12, Pages 13428–13436
+**Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025**
+*(Volume 39, Number 12, Pages 13428–13436)*
 
 [[Paper (AAAI)](https://ojs.aaai.org/index.php/AAAI/article/download/33466/35621)]
 [[Github (Code)](https://github.com/Dodo-D-Caster/Tokenphormer)]
