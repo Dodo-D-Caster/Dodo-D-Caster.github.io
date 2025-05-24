@@ -44,3 +44,4 @@ Graph Neural Networks (GNNs) are widely used in graph data mining tasks. Traditi
   pages={13428--13436},
   year={2025}
 }
+```
